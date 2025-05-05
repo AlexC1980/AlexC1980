@@ -17,11 +17,7 @@
 <li>Rock</li>
 </ul>
 
-<img src="https://zatayat.com/uploaded/images/cute-korean-girl-facts_1_.jpg" 
-width
-="1000" 
-height
-="500">
+<img src="https://zatayat.com/uploaded/images/cute-korean-girl-facts_1_.jpg" width="1000" height="500">
 
 <BR>
 <a href="https://kpopro.com/">K-pop Romania.</a>
